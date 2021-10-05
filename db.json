@@ -1,0 +1,82 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Post 1",
+      "content": "this is post #1",
+      "createdAt": "5-25-2021"
+    },
+    {
+      "id": 2,
+      "title": "Post 2",
+      "content": "this is post #2",
+      "createdAt": "5-25-2021"
+    },
+    {
+      "id": 3,
+      "title": "Post 3",
+      "content": "this is post #3",
+      "createdAt": "5-25-2021"
+    },
+    {
+      "title": "Post 4",
+      "content": "this is post #4",
+      "createdAt": "2021-05-30",
+      "id": 4
+    },
+    {
+      "title": "Post 5",
+      "content": "this is post #5",
+      "createdAt": "2021-05-20",
+      "id": 5
+    },
+    {
+      "title": "Post 7",
+      "content": "this is post #7",
+      "createdAt": "2021-05-15",
+      "id": 6
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "Maynard James Keenan",
+      "email": "keenan@tool.com"
+    },
+    {
+      "id": 2,
+      "name": "Adam Thomas Jones",
+      "email": "jones@tool.com"
+    },
+    {
+      "id": 3,
+      "name": "Dan Carey",
+      "email": "carey@tool.com"
+    },
+    {
+      "id": 4,
+      "name": "Justin Chancellor",
+      "email": "chancellor@tool.com"
+    },
+    {
+      "id": 5,
+      "name": "Paul D'Amour",
+      "email": "damour@tool.com"
+    },
+    {
+      "name": "Jerry Cantrell",
+      "email": "cantrell@aic.com",
+      "id": 6
+    },
+    {
+      "name": "Thom Yorke",
+      "email": "yorke@radiohead.com",
+      "id": 7
+    },
+    {
+      "name": "Chris Cornell",
+      "email": "cornell@soundgarden.com",
+      "id": 8
+    }
+  ]
+}
